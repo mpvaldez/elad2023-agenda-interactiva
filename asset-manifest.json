@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/elad2023-agenda-interactiva/static/css/main.7b8caecf.chunk.css",
-    "main.js": "/elad2023-agenda-interactiva/static/js/main.ee216562.chunk.js",
-    "main.js.map": "/elad2023-agenda-interactiva/static/js/main.ee216562.chunk.js.map",
+    "main.css": "/elad2023-agenda-interactiva/static/css/main.20d78ee4.chunk.css",
+    "main.js": "/elad2023-agenda-interactiva/static/js/main.6114feb5.chunk.js",
+    "main.js.map": "/elad2023-agenda-interactiva/static/js/main.6114feb5.chunk.js.map",
     "runtime-main.js": "/elad2023-agenda-interactiva/static/js/runtime-main.81a7d50a.js",
     "runtime-main.js.map": "/elad2023-agenda-interactiva/static/js/runtime-main.81a7d50a.js.map",
     "static/css/2.9a0dceed.chunk.css": "/elad2023-agenda-interactiva/static/css/2.9a0dceed.chunk.css",
@@ -12,13 +12,12 @@
     "static/js/3.4dc32e90.chunk.js.map": "/elad2023-agenda-interactiva/static/js/3.4dc32e90.chunk.js.map",
     "index.html": "/elad2023-agenda-interactiva/index.html",
     "static/css/2.9a0dceed.chunk.css.map": "/elad2023-agenda-interactiva/static/css/2.9a0dceed.chunk.css.map",
-    "static/css/main.7b8caecf.chunk.css.map": "/elad2023-agenda-interactiva/static/css/main.7b8caecf.chunk.css.map",
+    "static/css/main.20d78ee4.chunk.css.map": "/elad2023-agenda-interactiva/static/css/main.20d78ee4.chunk.css.map",
     "static/js/2.677efeb5.chunk.js.LICENSE.txt": "/elad2023-agenda-interactiva/static/js/2.677efeb5.chunk.js.LICENSE.txt",
     "static/media/App.css": "/elad2023-agenda-interactiva/static/media/Nippo.b2ac25be.woff",
     "static/media/calculando1.c24ed017.gif": "/elad2023-agenda-interactiva/static/media/calculando1.c24ed017.gif",
     "static/media/calculando2.f371f8ae.gif": "/elad2023-agenda-interactiva/static/media/calculando2.f371f8ae.gif",
     "static/media/calculando3.b0bcfdfc.gif": "/elad2023-agenda-interactiva/static/media/calculando3.b0bcfdfc.gif",
-    "static/media/calculando4.0b3ec6c6.gif": "/elad2023-agenda-interactiva/static/media/calculando4.0b3ec6c6.gif",
     "static/media/flecha_transparente.b01e077c.png": "/elad2023-agenda-interactiva/static/media/flecha_transparente.b01e077c.png",
     "static/media/iconoLink.fee1091c.svg": "/elad2023-agenda-interactiva/static/media/iconoLink.fee1091c.svg",
     "static/media/iconoWhats.02865e74.svg": "/elad2023-agenda-interactiva/static/media/iconoWhats.02865e74.svg",
@@ -28,7 +27,7 @@
     "static/js/runtime-main.81a7d50a.js",
     "static/css/2.9a0dceed.chunk.css",
     "static/js/2.677efeb5.chunk.js",
-    "static/css/main.7b8caecf.chunk.css",
-    "static/js/main.ee216562.chunk.js"
+    "static/css/main.20d78ee4.chunk.css",
+    "static/js/main.6114feb5.chunk.js"
   ]
 }
